@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Studing on **[Karpagam college of Engineering](http://ec2-15-207-51-251.ap-south-1.compute.amazonaws.com/finalsite-main/clone.html)**
+- 🔭 I’m currently Studing on **[Karpagam college of Engineering]()**
 
 - 🌱 I’m currently learning **ReactJs and Building Projects.**
 
