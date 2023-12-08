@@ -7,9 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Studing on **[Karpagam college of Engineering]()**
-
-- 🌱 I’m currently learning **ReactJs and Building Projects.**
+- 🌱 I’m Creative Front-End Developer 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
