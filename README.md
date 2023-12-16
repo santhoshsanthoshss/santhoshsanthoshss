@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://santhoshsvs.netlify.app/)**
 
-- 📫 How to reach me **santhoshsanthosh63268@gmail.com**
+- 📫 How to reach me **santhoshcareers1211@gmail.com**
 
 - ⚡ Fun fact **I play Football and go to the GYM very often.**
 
